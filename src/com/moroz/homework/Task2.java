@@ -1,6 +1,7 @@
 package com.moroz.homework;
 
 public class Task2 {
+
     public static void main(String[] args) {
         int number = 9999;
         int lastNumber = number / 100;
@@ -10,4 +11,5 @@ public class Task2 {
         System.out.println(firstNumber);
         System.out.println(allNumber);
     }
+
 }
