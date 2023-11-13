@@ -1,4 +1,4 @@
-package com.moroz.lesson1;
+package com.moroz.lessons.lesson1;
 
 public class Task1 {
 
