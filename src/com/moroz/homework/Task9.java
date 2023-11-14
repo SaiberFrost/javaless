@@ -1,8 +1,9 @@
 package com.moroz.homework;
 
 public class Task9 {
+
     public static void main(String[] args) {
-    int fingerNumber = 7;
+    int fingerNumber = 3;
     String message;
     if (fingerNumber == 1) {
         message = "Большой";
