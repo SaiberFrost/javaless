@@ -3,7 +3,7 @@ package com.moroz.homework;
 public class Task9 {
 
     public static void main(String[] args) {
-    int fingerNumber = 3;
+    int fingerNumber = 7;
     String message;
     if (fingerNumber == 1) {
         message = "Большой";
@@ -20,4 +20,5 @@ public class Task9 {
     }
     System.out.println(message);
 }
+
 }
